@@ -1,4 +1,5 @@
 * Put everything under the YamlDb module namespace
+* Support Ruby 2.3
 
 ## yaml_db 0.3.0
 

@@ -1,4 +1,5 @@
 * Put everything under the YamlDb module namespace
+* Add Rails 5.0 beta support
 
 ## yaml_db 0.3.0
 
